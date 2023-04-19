@@ -1,0 +1,65 @@
+body {
+    
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+    
+    
+
+
+ul  {
+   display: block;
+   list-style: none;
+   position: relative;
+   text-align: right;
+   top: 58pt;
+   
+
+  
+}
+li {
+    display: inline;
+    top: 20px;
+    padding: 30px;
+         
+}
+ul li a {
+    
+    text-decoration: none;
+    color: #bea26b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    font-style: italic;
+    
+    
+    
+}
+div img {
+    position: relative;
+    top: -35px;
+    padding: 10px;
+    
+}
+
+header {
+
+    display: block;
+    background-size: cover;
+    background-image: url("../img/topo.jpg");
+    padding: 200px;
+    
+    
+}
+
+
+    
+    
+
+
+
+    
+
+   
+
+    
